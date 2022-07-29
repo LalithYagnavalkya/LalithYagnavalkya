@@ -21,7 +21,7 @@
 :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 I’m Self taught Developer
 - 🎓 Engineer
--  :bricks: i am a work in progress
+-  :bricks: Lead Front-end Engineer 
 - 📫 How to reach me lalluyagnavalkya.t@gmail.com
 
 ---
