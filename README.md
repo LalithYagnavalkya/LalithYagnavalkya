@@ -1,14 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/jyothi-prakash-reddy-mettu-650b8421a/">
+  <a href="https://www.linkedin.com/in/lalith-yagnavalkya-tirunagari-a53b38199/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Prakash54367790">
+  <a href="https://twitter.com/TLallu/with_replies">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Prakash-Reddy08&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=LalithYagnavalkya&style=flat-square&color=blue" alt=""/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 </div>
 <div align="center">
@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 I’m Self taught Developer
-- 🎓 Pursuing MCA
+- 🎓 Engineer
 -  :bricks: i am a work in progress
 - 📫 How to reach me lalluyagnavalkya.t@gmail.com
 
@@ -45,10 +45,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prakash-Reddy08&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LalithYagnavalkya&theme=dark&background=000000)](https://git.io/streak-stats)  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Reddy08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-Prakash-Reddy08/Prakash-Reddy08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithYagnavalkya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
