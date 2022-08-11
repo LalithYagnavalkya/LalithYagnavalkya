@@ -49,3 +49,13 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LalithYagnavalkya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+ <div align="center">
+ 
+ ![github contribution grid snake animation](https://github.com/LalithYagnavalkya/LalithYagnavalkya/blob/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/LalithYagnavalkya/LalithYagnavalkya/blob/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
+
