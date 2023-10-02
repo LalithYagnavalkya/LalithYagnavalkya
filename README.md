@@ -11,12 +11,9 @@
 <img src="https://komarev.com/ghpvc/?username=LalithYagnavalkya&style=flat-square&color=blue" alt=""/>
 <h1> Hey! Nice to see you.</h1>
 </div>
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="370"/>
-</div> -->
 
 
----
+
 ### :man_technologist: About Me :
 :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 I’m Self taught Developer
