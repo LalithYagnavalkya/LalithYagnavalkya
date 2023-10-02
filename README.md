@@ -18,7 +18,7 @@
 :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - 🌱 I’m Self taught Developer
 - 🎓 Engineer
--  :bricks: Currently working as a Nodejs developer.
+-  :bricks: Currently working as a Node.js developer.
 - 📫 How to reach me y.lalith01@gmail.com
 
 ---
