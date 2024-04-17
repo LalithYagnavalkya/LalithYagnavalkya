@@ -9,16 +9,9 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=LalithYagnavalkya&style=flat-square&color=blue" alt=""/>
-<h1> Hey! Nice to see you.</h1>
+<h1>Full Stack Developer</h1>
 </div>
 
-
-
-### :man_technologist: About Me :
-:wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🌱 I’m MERN stack developer
-- 🎓 Computer Science Engineer
--  :bricks: Currently working as a Node.js developer.
 - 📫 How to reach me y.lalith01@gmail.com
 
 ---
